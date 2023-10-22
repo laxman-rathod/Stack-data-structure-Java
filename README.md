@@ -1,4 +1,4 @@
-# Stack in Java
+# Stack data structure in Java
  Stack data structure and it's operations.
 
 In Java, a stack is a linear data structure that follows the Last In, First Out (LIFO) principle. This means that the last element added to the stack is the first one to be removed. Stacks are used in a variety of applications, and Java provides a built-in class called java.util.Stack to implement stacks. However, it's more common to use the java.util.Deque interface or one of its implementing classes like java.util.ArrayDeque or java.util.LinkedList for stack operations in modern Java programming.
