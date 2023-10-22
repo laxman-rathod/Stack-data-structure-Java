@@ -34,3 +34,7 @@ isEmpty: You can check if the stack is empty using the isEmpty() method.
 Size: You can determine the number of elements in the stack using the size() method.
 
 Clear: To remove all elements from the stack, you can use the clear() method.
+
+![Screenshot 1](https://github.com/rathodlucky12/Stack-in-Java/assets/131651450/4ae73f21-c1bd-4f09-a8f8-d53091b2d30e)
+![Screenshot 2](https://github.com/rathodlucky12/Stack-in-Java/assets/131651450/56dc2eb5-10cf-474d-9950-5ae045490524)
+
