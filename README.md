@@ -4,7 +4,7 @@ In Java programming language, a stack is a linear data structure that follows th
 
 Here's some information about using stacks in Java, along with their pros and cons and their typical operations:
 
-#Pros of Using Stacks:
+# Pros of Using Stacks:
 
 Simple and Intuitive: Stacks are easy to understand and use, making them suitable for a wide range of applications.
 
@@ -14,13 +14,13 @@ Undo/Redo Functionality: Stacks are often used to implement undo/redo functional
 
 Function Call Management: Stacks are used in programming for function call management. The call stack keeps track of function calls and their local variables, making it essential for the execution of methods and handling recursive calls.
 
-#Cons of Using Stacks:
+# Cons of Using Stacks:
 
 Fixed Size: If you use an array-based implementation for a stack, it has a fixed size. If you exceed this size, you need to resize the array or use a different data structure.
 
 Inefficient for Random Access: Stacks are not suitable for random access of elements. You can only access the top element of the stack efficiently.
 
-#Operations on a Stack:
+# Operations on a Stack:
 
 Push: This operation adds an element to the top of the stack. In Java, you can use the push() method to add an element to the top of the stack.
 
@@ -34,7 +34,7 @@ Size: You can determine the number of elements in the stack using the size() met
 
 Clear: To remove all elements from the stack, you can use the clear() method.
 
-#Here's a output of this code:
+# Here's a output of this code:
 
 ![Screenshot 1](https://github.com/rathodlucky12/Stack-in-Java/assets/131651450/4ae73f21-c1bd-4f09-a8f8-d53091b2d30e)
 
