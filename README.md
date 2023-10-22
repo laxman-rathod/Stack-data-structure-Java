@@ -40,3 +40,6 @@ Clear: To remove all elements from the stack, you can use the clear() method.
 
 ![Screenshot 2](https://github.com/rathodlucky12/Stack-in-Java/assets/131651450/56dc2eb5-10cf-474d-9950-5ae045490524)
 
+# Owner ⭐
+ - Name: Laxman Rathod
+ - GitHub: [Laxman Rathod](https://github.com/rathodlucky12)
